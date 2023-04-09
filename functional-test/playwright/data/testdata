@@ -1,0 +1,4 @@
+
+export const HomePageURL = {
+    BaseURL: 'https://www.apple.com/uk/'
+};
